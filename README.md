@@ -1,24 +1,9 @@
-# README
+# Anime Personal Personal Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Introduction
 
-Things you may want to cover:
+This project will cater to the anime community. The app will provide anime watchers with suggestions on different anime depending on certain inputs.
 
-* Ruby version
+## Installation
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+You will first need to install the http gem using the code `gem install http` in your terminal.

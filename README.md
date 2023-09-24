@@ -1,4 +1,4 @@
-# Anime Personal Personal Project
+# Anime Personal Project
 
 ## Introduction
 
